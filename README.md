@@ -1,6 +1,6 @@
 # Dcard-python
 
-This module solve the problem of annoying CSRF problem.
+This module solves the problem of annoying CSRF problem.
 
 So you can write scripts by simply `import dcard`.
 
